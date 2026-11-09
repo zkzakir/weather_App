@@ -156,5 +156,5 @@ If you have any questions or issues:
 
 **Happy Weather Forecasting!** 🌦️☀️🌧️⛈️
 
-**Live Demo**: https://openweatherapiapplication.netlify.app/
+**Live Demo**: https://openweatherapiapplication.netlify.app
 **GitHub**: https://github.com/zakirkhan96/weather_App
